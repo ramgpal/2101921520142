@@ -16,13 +16,13 @@ It is a React application designed for managing and displaying product informati
 
 ## Installation
 
-To get started with the Product Management App, follow these steps:
+To get started with the app, follow these steps:
 
 1. **Clone the repository:**
 
     ```bash
     git clone <repository-url>
-    cd product-management-app
+    cd app
     ```
 
 2. **Install dependencies:**
@@ -47,19 +47,18 @@ To get started with the Product Management App, follow these steps:
 
 ## Output Snapshots
 
-### Product List
-
-
-
-### Product Details
-
 *Snapshot of the postman app, while authorizing:*
 
 ![Product Details Snapshot](./Assets/Postman_Output1.png)
 
+### Product Details
+
 *Snapshot of the postman app, while accessing data:*
 
+
 ![Product Details Snapshot](./Assets/Postman_Output2.png)
+
+### Product List
 
 *Snapshot of the Product List page showing a list of products with sorting options:*
 
